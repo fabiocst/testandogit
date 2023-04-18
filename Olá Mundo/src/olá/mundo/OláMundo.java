@@ -14,7 +14,7 @@ public class OláMundo {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Testando o GitHub");
+        System.out.println("Testando o GitHub func1");
         // TODO code application logic here
     }
     
